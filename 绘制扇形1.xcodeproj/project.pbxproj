@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		6832E2141D24B87F00D268D6 /* 1.gif in Resources */ = {isa = PBXBuildFile; fileRef = 6832E2131D24B87F00D268D6 /* 1.gif */; };
 		6847397C1D23B2D000314F37 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 6847397B1D23B2D000314F37 /* main.m */; };
 		6847397F1D23B2D000314F37 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 6847397E1D23B2D000314F37 /* AppDelegate.m */; };
 		684739821D23B2D000314F37 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 684739811D23B2D000314F37 /* ViewController.m */; };
@@ -35,6 +36,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		6832E2131D24B87F00D268D6 /* 1.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = 1.gif; sourceTree = "<group>"; };
 		684739771D23B2D000314F37 /* 绘制扇形1.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "绘制扇形1.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		6847397B1D23B2D000314F37 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		6847397D1D23B2D000314F37 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
@@ -105,6 +107,7 @@
 				6847397E1D23B2D000314F37 /* AppDelegate.m */,
 				684739801D23B2D000314F37 /* ViewController.h */,
 				684739811D23B2D000314F37 /* ViewController.m */,
+				6832E2131D24B87F00D268D6 /* 1.gif */,
 				684739831D23B2D000314F37 /* Main.storyboard */,
 				684739861D23B2D000314F37 /* Assets.xcassets */,
 				684739881D23B2D000314F37 /* LaunchScreen.storyboard */,
@@ -245,6 +248,7 @@
 			files = (
 				6847398A1D23B2D000314F37 /* LaunchScreen.storyboard in Resources */,
 				684739871D23B2D000314F37 /* Assets.xcassets in Resources */,
+				6832E2141D24B87F00D268D6 /* 1.gif in Resources */,
 				684739851D23B2D000314F37 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -496,6 +500,7 @@
 				684739A61D23B2D000314F37 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		684739A71D23B2D000314F37 /* Build configuration list for PBXNativeTarget "绘制扇形1Tests" */ = {
 			isa = XCConfigurationList;
@@ -504,6 +509,7 @@
 				684739A91D23B2D000314F37 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		684739AA1D23B2D000314F37 /* Build configuration list for PBXNativeTarget "绘制扇形1UITests" */ = {
 			isa = XCConfigurationList;
@@ -512,6 +518,7 @@
 				684739AC1D23B2D000314F37 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
